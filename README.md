@@ -1,2 +1,3 @@
 # vintage-record-store
-a project i took to expand my horizon into Go land on the backend. It's about a small vintage record store with create &amp; read functions only with and in-memory DB
+A project I took on to expand my horizon into Go land but on the backend. 
+It's about a small & simple vintage record store with create &amp; read functions only. It uses an in-memory DB( a Go `slice` )
